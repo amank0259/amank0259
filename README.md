@@ -7,6 +7,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
 
+
+<a href="https://app.daily.dev/amank0259"><img src="https://api.daily.dev/devcards/a9d080e356364c3690e504e93b538d26.png?r=hyf" width="400" alt="Aman kumar's Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amank0259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amank0259" height="30" width="40" /></a>
