@@ -1,3 +1,4 @@
+<img align="top" alt="Coding" width="1800" height="300" src="https://thumbs.dreamstime.com/b/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg">
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">Web Developer, I am a 2nd Year CSE undergraduate Student. A Web Developer and a Tech Enthusiast, who is obsessed with the idea of improving himself and wants a platform to grow and accelerate...</h3>
 
