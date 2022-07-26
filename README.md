@@ -25,9 +25,9 @@
 -->
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=amank0259&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=amank0259&count_private=true&show_icons=true&theme=tokyonight" width="500" />
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=amank0259&count_private=true&show_icons=true&theme=tokyonight" width="46%" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=amank0259&hide=php&theme=tokyonight">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amank0259&show_icons=true&locale=en&layout=compact" width="500" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amank0259&show_icons=true&locale=en&layout=compact" width="48%" />
 </a>
   </div>
