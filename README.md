@@ -12,8 +12,6 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amank0259&label=Profile%20views&color=0e75b6&style=flat" alt="amank0259" /> </p>
-
 - 📫 How to reach me **amank0259@gmail.com**
 
   <div>
