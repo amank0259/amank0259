@@ -14,9 +14,7 @@
 
 - 📫 How to reach me **amank0259@gmail.com**
 
-  <div>
-     <img src="https://github-profile-trophy.vercel.app?username=amank0259&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  </div>
+- ![](https://github-profile-trophy.vercel.app/?username=amank0259&theme=radical&no-frame=false&no-bg=true&margin-w=4) ###
 
 <h3 align="left">Let's Connect:</h3>
 
