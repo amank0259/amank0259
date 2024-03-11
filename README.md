@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **amank0259@gmail.com**
 
-- ![](https://github-profile-trophy.vercel.app/?username=amank0259&theme=radical&no-frame=false&no-bg=true&margin-w=4) ###
+- ![](https://github-profile-trophy.vercel.app/?username=amank0259&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <h3 align="left">Let's Connect:</h3>
 
