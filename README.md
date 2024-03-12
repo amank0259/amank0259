@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **amank0259@gmail.com**
 
+- ![](https://github-profile-trophy.vercel.app/?username=amank0259&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <h3 align="left">Let's Connect:</h3>
 
 ###
@@ -75,7 +77,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
 </div>
 
-- ![](https://github-profile-trophy.vercel.app/?username=amank0259&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=amank0259&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
